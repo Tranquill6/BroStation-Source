@@ -1,0 +1,7 @@
+<!-- Most valid html will work in here, excluding images. -->
+
+<h1>Welcome to the BroStation!</h1>
+
+<i>We are glad to be up and running!</i>
+
+<i>Hope you have a fun time on the station!</i>
